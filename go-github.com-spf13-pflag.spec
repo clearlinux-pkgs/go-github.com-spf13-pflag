@@ -4,7 +4,7 @@
 #
 Name     : go-github.com-spf13-pflag
 Version  : v1.0.3
-Release  : 1
+Release  : 2
 URL      : https://proxy.golang.org/github.com/spf13/pflag/@v/list
 Source0  : https://proxy.golang.org/github.com/spf13/pflag/@v/list
 Source1  : https://proxy.golang.org/github.com/spf13/pflag/@v/v1.0.3.info
